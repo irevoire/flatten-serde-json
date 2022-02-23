@@ -1,5 +1,5 @@
 [package]
-name = "flatten_obkv_json"
+name = "flatten_serde_json"
 version = "0.1.0"
 edition = "2021"
 
