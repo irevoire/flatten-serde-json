@@ -1,5 +1,5 @@
 [package]
-name = "flatten_serde_json"
+name = "flatten-serde-json"
 version = "0.1.0"
 edition = "2021"
 
