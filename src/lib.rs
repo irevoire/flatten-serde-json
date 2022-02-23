@@ -1,3 +1,5 @@
+#![doc = include_str!("../README.md")]
+
 use serde_json::{json, Map, Value};
 
 pub fn flatten(json: &Map<String, Value>) -> Map<String, Value> {
