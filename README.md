@@ -3,6 +3,8 @@
 This crate flatten [`serde_json`](https://docs.rs/serde_json/latest/serde_json/) `Object` in a format
 similar to [elastic search](https://www.elastic.co/guide/en/elasticsearch/reference/current/nested.html).
 
+That's used in production in [meilisearch](https://github.com/meilisearch/meilisearch/)
+
 ## Examples
 
 ### There is nothing to do
